@@ -50,6 +50,7 @@ namespace helloworold
             }
             Console.WriteLine("ошибка");
             Console.WriteLine("03.12.22eto");
+            Console.WriteLine("laba");
             Console.ReadLine();
         }
     }
