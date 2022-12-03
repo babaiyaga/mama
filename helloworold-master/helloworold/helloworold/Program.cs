@@ -49,6 +49,7 @@ namespace helloworold
                     break;
             }
             Console.WriteLine("ошибка");
+            Console.WriteLine("03.12.22eto");
             Console.ReadLine();
         }
     }
